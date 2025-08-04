@@ -12,8 +12,8 @@ This portfolio was built as part of the PLP Academy Portfolio hackathon Challeng
 - Social Media Integration
 - Hosted on GitHub Pages
 
-> 🔗 Live Site: [https://your-username.github.io/portfolio-hackathon](https://your-username.github.io/portfolio-hackathon)  
-> 💻 GitHub Repo: [https://github.com/your-username/portfolio-hackathon](https://github.com/your-username/portfolio-hackathon)
+> 🔗 Live Site: [https://your-username.github.io/portfolio-hackathon](https://Compton239.github.io/portfolio-hackathon)  
+> 💻 GitHub Repo: [https://github.com/Compton239/portfolio-hackathon](https://github.com/Compton239/portfolio-hackathon)
 
  🛠️ Key Features
 - 📱 Responsive Layout: Optimized for mobile, tablet, and desktop views  
